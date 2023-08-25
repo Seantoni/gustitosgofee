@@ -210,3 +210,14 @@ body:not(.sidebar-active) {
 .sidebar .button-container {
     flex-direction: column;
 }
+
+#inputForm {
+    display: none;
+}
+
+#password-group {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 1em;
+}
